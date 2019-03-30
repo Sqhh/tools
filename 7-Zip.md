@@ -18,5 +18,5 @@ ___
 7-Zip works in Windows 10 / 8 / 7 / Vista / XP / 2016 / 2012 / 2008 / 2003 / 2000 / NT.
 ___
 # Links
-Link: https://www.7-zip.org/
-DonwloadLink: https://www.7-zip.org/
+Link: https://www.7-zip.org
+DonwloadLink: https://www.7-zip.org/a/7z1900-x64.exe
